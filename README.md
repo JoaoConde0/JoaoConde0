@@ -1,10 +1,10 @@
 # Hi there! I'm João Condé 👋
 
 <a href="mailto:joao.andradecondes@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-coelho.gabrielcs@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail badge">
+    <img src="https://img.shields.io/badge/-joao.andradecondes@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail badge">
 </a>
 <a href="http://linkedin.com/in/conde-joao" target="_blank">
-    <img src="https://img.shields.io/badge/-coelhogabrielcs-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn badge">
+    <img src="https://img.shields.io/badge/-JoaoConde-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn badge">
 </a>
 
 ## 👨‍🎓 About Me
